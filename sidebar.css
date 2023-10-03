@@ -1,0 +1,88 @@
+.sidebar{
+    position: fixed;
+    left:0;
+    bottom:0;
+    top: 80px;
+    background-color: white;
+    width: 100px;
+    z-index: 200;
+}
+
+.sidebar-link{
+    height: 123px;
+    cursor: pointer;
+}
+
+.sidebar-link:hover{
+    background-color: rgb(235, 234, 234);
+}
+
+
+.homeIcon{
+    height:70px;
+    width: 70px;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+
+.homeText{
+ margin-left: 28px;
+ margin-top: -18px;
+}
+
+.exploreIcon{
+    height:30px;
+    width: 30px;
+    margin-left: 32px;
+    margin-top: 38px;
+}
+.exploreText{
+    margin-left: 22px;
+    margin-top: 3px;
+}
+
+
+.subIcon{
+    height:38px;
+    width: 38px;
+    margin-left: 27px;
+    margin-top: 33px;
+}
+.subText{
+    margin-left: 8px;
+    margin-top: 3px;
+}
+
+
+.originalsIcon{
+    height:38px;
+    width: 38px;
+    margin-left: 27px;
+    margin-top: 33px;
+}
+.originalsText{
+    margin-left: 17px;
+    margin-top: 3px;
+}
+
+.musicIcon{
+    height:38px;
+    width: 38px;
+    margin-left: 27px;
+    margin-top: 33px;
+}
+.musicText{
+    margin-left: 25px;
+    margin-top: 3px;
+}
+
+.libIcon{
+    height:38px;
+    width: 38px;
+    margin-left: 27px;
+    margin-top: 33px;
+}
+.libText{
+    margin-left: 22px;
+    margin-top: 3px;
+}

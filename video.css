@@ -1,0 +1,139 @@
+
+.videos-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 30px;
+}
+
+
+.video-info-grid{
+display: grid;
+grid-template-columns: 50px 1fr;
+}
+
+.channelPicture{
+    vertical-align: top;
+}
+
+.videoTitle{
+    margin-bottom: 9px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.thumbnailRow{
+    margin-bottom: 8px;
+    position: relative;
+}
+
+.videoAuthor, .videoStats{
+    font-size: 12px;
+    color: rgb(96,96,96);
+}
+
+.videoTime{
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    right: 5px;
+    font-family: Roboto, Arial;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+
+
+
+
+
+
+
+
+.CaseyThumbnail{
+    width: 100%;
+}
+
+.JustinBeiberThumbnail{
+    width: 100%;
+}
+
+.JustinThumbnail{
+    width: 100%;
+}
+
+.lofeThumbnail{
+    width: 100%;
+}
+
+.mkbhdThumbnail{
+    width: 100%;
+}
+.ArijitSinghThumbnail{
+    width: 100%
+}
+
+.IndVPak{
+    width: 100%;
+}
+
+.RanbirThumbnail{
+    width: 100%;
+}
+
+.AamirThumbnail{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+.justinPic{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
+.lofePic {
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
+.mkbhdPfp{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+.TSeriesLogo{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
+.ACCLogo{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
+.yrfLogo{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
+.SonyLogo{
+    display:inline-block;
+    width: 36px;
+    border-radius: 50px;
+}
+
